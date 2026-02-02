@@ -1,7 +1,10 @@
-Small self-study project for webdev class.
+# Small self-study project for webdev class.
 
-Languages: <br>
+## Languages: <br>
 HTML, CSS, JavaScript
 
-Description: <br>
+## Description: <br>
 A clock showing the current time (swe) and counts down to when the school day is over.
+
+## How to run:
+Download files and run index.html in browser
