@@ -8,3 +8,6 @@ A clock showing the current time (swe) and counts down to when the school day is
 
 ## How to run:
 Download files and run index.html in browser
+
+## Preview:
+https://mundus-school.github.io/w01-tool-clock/
